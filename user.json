@@ -1,0 +1,28 @@
+[
+  {
+    "id": "buby7juq4",
+    "username": "abc_abc",
+    "age": 27,
+    "hobbies": [
+      "Vlogging",
+      "Photography"
+    ]
+  },
+  {
+    "id": "e6rpyt3tx",
+    "username": "new_new",
+    "age": 17,
+    "hobbies": [
+      "Photography",
+      "cricket"
+    ]
+  },
+  {
+    "id": "clxj015s6",
+    "username": "john_doe",
+    "age": 30,
+    "hobbies": [
+      "cricket"
+    ]
+  }
+]
